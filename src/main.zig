@@ -2,9 +2,7 @@ const std = @import("std");
 const vaxis = @import("vaxis");
 const vxfw = vaxis.vxfw;
 
-/// Our main application state
 const Model = struct {
-    /// State of the counter
     count: u32 = 0,
     /// The button. This widget is stateful and must live between frames
     button: vxfw.Button,

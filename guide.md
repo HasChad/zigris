@@ -54,3 +54,29 @@ Build incrementally:
 Don't try to build everything at once. Get each piece working before moving on.
 The hardest part is usually getting rotation and collision feeling right together.
 Test obsessively with pieces in corners and against other pieces.
+
+# Looks
+```
+<! . . . . . . . . . .!>    HOLD:
+<! . . . . . . . . . .!>
+<! . . . . . . . . . .!>      []
+<! . . . . . . . . . .!>    [][][]
+<! . . . . . . . . . .!>
+<! . . . . . . . . . .!>    NEXT:
+<! . . . . .[] . . . .!>
+<! . . . . .[] . . . .!>      [][]
+<! . . . . .[] . . . .!>    [][]
+<! . . . . .[] . . . .!>
+<! . . . . . . . . . .!>
+<! . . . . . . . . . .!>
+<! . .[] . . . . . . .!>
+<! . .[][] . . . . . .!>
+<! . .[][] . . . . . .!>
+<! . .[][] . . . . . .!>
+<! . .[][] . . . . .[]!>
+<! .[][][] . .[] . .[]!>
+<![][][][] . .[][] .[]!>
+<![][][][] . .[][][][]!>
+<!====================!>
+  \/\/\/\/\/\/\/\/\/\/
+```

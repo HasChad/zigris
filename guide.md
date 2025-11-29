@@ -1,3 +1,5 @@
+https://tetris.fandom.com/wiki/Tetris_Guideline
+
 # Core Architecture
 Start by separating concerns cleanly:
 - Game state: The board grid, current piece, next piece, score, level
